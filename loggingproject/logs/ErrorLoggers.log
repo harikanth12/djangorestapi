@@ -1,0 +1,11 @@
+2019-10-22 11:31:39,737  ERROR  4742  /home/harikanth/restfulapiot/loggingproject/testapp/views.py  index  8  Hi i am here  
+2019-10-22 12:35:49,456  ERROR  11860  /home/harikanth/restfulapiot/loggingproject/testapp/views.py  index  8  Hi i am here  
+2019-10-22 12:36:39,081  ERROR  11960  /home/harikanth/restfulapiot/loggingproject/testapp/views.py  index  8  Hi i am here  
+2019-10-22 12:38:30,743  ERROR  12167  /home/harikanth/restfulapiot/loggingproject/testapp/views.py  index  8  Hi i am here  
+2019-10-22 12:39:14,202  ERROR  12225  /home/harikanth/restfulapiot/loggingproject/testapp/views.py  index  8  Hi i am here  
+2019-10-22 12:42:14,672  ERROR  12512  /home/harikanth/restfulapiot/loggingproject/testapp/views.py  index  9  Hi i am here  
+2019-10-22 12:42:14,672  ERROR  12512  /home/harikanth/restfulapiot/loggingproject/testapp/views.py  index  12  division by zero  
+Traceback (most recent call last):
+  File "/home/harikanth/restfulapiot/loggingproject/testapp/views.py", line 10, in index
+    msg = 1/0
+ZeroDivisionError: division by zero
